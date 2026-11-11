@@ -12,7 +12,7 @@ A CLI application that fetches and displays a GitHub user's recent public activi
 
 **Topics:** Java HTTP Client, JSON processing, Collections, Generics, Enums.
 
-[View Repository](https://github.com/idayvd/GH-User-Activity)
+[View Repository](https://github.com/idavyd/GH-User-Activity)
 
 ### 2. Task Tracker
 
@@ -20,7 +20,7 @@ A CLI application for managing tasks and tracking their status.
 
 **Topics:** Collections, File I/O, Packages, Interfaces, Enums.
 
-[View Repository](https://github.com/idayvd/Task-Tracker)
+[View Repository](https://github.com/idavyd/Task-Tracker)
 
 ### 3. Number Guessing Game
 
@@ -28,7 +28,7 @@ A command-line game where the player tries to guess a randomly generated number.
 
 **Topics:** Loops, Methods, Scanner, Random, Exception Handling.
 
-[View Repository](ADD_NUMBER_GUESSING_REPOSITORY_LINK)
+[View Repository](https://github.com/idavyd/Guess-Game)
 
 ---
 
