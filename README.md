@@ -30,7 +30,13 @@ A command-line game where the player tries to guess a randomly generated number.
 
 [View Repository](https://github.com/idavyd/Guess-Game)
 
----
+### 4. CLI Expenses Tracker
+
+A command-line utility that allow to add,update,delete and list expenses!
+
+I am still using It instead of my Banking APP ( don't trust Revolut ) 
+
+[View Repository](https://github.com/idavyd/Expenses-Tracker)
 
 ## Goal
 
